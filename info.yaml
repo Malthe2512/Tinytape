@@ -26,14 +26,14 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: ""
-  uo[1]: ""
-  uo[2]: ""
-  uo[3]: ""
-  uo[4]: ""
-  uo[5]: ""
-  uo[6]: ""
-  uo[7]: ""
+  uo[0]: "display 0"
+  uo[1]: "display 1"
+  uo[2]: "display 2"
+  uo[3]: "display 3"
+  uo[4]: "display 4"
+  uo[5]: "display 5"
+  uo[6]: "display 6"
+  uo[7]: "display 7"
 
   # Bidirectional pins
   uio[0]: ""
